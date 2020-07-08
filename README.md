@@ -1,1 +1,3 @@
-#The Sleeping Barber Problemi monitor koduyla çözülmüştür.
+## İşletim Sistemi Ödevi
+
+###### The Sleeping Barber Problemi monitor koduyla çözülmüştür.
